@@ -1,0 +1,23 @@
+h1 {
+	color:orange;
+	font-size:50px;
+	font-family:'Georgia', serif
+}
+h3 {
+	color: pink;
+	font-size:30px;
+	font-family:'Georgia', serif
+}
+#shiny{
+	color:gold;
+}
+p {
+	color:red;
+}
+img {
+	width: 50%;
+	margin-left: 25%;
+	border: Spx;
+	border-style: dotted;
+	border-color: blue;
+}
